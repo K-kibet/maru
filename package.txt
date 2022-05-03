@@ -1,0 +1,14 @@
+What are telegram bots? Bots are third-party application accounts that run inside the Telegram application. 
+
+Users can interact with bots by sending them messages, commands, and inline requests. You control your bots using HTTPS requests from the Telegram Bot API.
+Telegram bots have made it easy to automate tasks in telegram channels and groups
+You can even build your own telegram bot to curate news or monitor cryptocurrencies trend for you
+build telegram bots using Node.js runtime environment and Telegraf library from scratch.
+
+Telegram bot
+weather bot
+vendor bots,
+e-commerce bot
+dictionary bot
+
+go to the telegram search bar and search @botfather (this is a special telegram bot that controls all others)
